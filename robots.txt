@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snbhomecare.bg/sitemap.xml
